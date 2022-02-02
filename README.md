@@ -1,4 +1,4 @@
-# <h1 align="center"> 👋 Hi, I am `furrygem`</h1>
+# <h1 align="center" justify-content="center"> 👋 Hi, I am `furrygem`  <img src="https://emoji.gg/assets/emoji/1586-furry-dance-rainbow.gif" height="50px" alt="Furry_Dance_Rainbow" justify-self="center"></h1>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23777777&vCenter=true&height=60&lines=Backend+development;DevOps+engineering;Cybersecurity;Networking)](https://git.io/typing-svg)
 ## About me
 

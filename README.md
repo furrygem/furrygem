@@ -5,7 +5,7 @@
 ✨ from Russia 🇷🇺❄️ I can speak both English and Russian languages \
 🎉 18 y.o.\
 💙 he/him\
-💭 I work as a DevOps engineer but I also have fun working with backend and cybersec. (and sometimes frontend 😉😳🦄)
+💭 I work as a DevOps engineer and developer but I also have fun working with backend and cybersec. (and sometimes frontend 😉😳🦄)
 ## Languages I use
 <p align="left"> 
   <a target="_blank" href="https://python.org/" target="_blank"><img src="https://img.icons8.com/color/96/000000/python--v1.png" width="44" height="44"></a>

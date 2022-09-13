@@ -25,6 +25,7 @@
   <a target="_blank" href="https://mongodb.com/"><img src="https://img.icons8.com/color/96/000000/mongodb.png" width="44" height="44"\></a>
   <a target="_blank" href="https://kubernetes.io/"><img src="https://img.icons8.com/color/96/000000/kubernetes.png" width="44" height="44"/></a>
   <a target="_blank" href="https://saltproject.io/"><img src="https://gitlab.com/saltstack/open/salt-branding-guide/-/raw/master/logos/SaltProject_Logomark_black.png" width="44" height="44"/></a>
+  <a target="_blank" href="https://clickhouse.yandex"><img src="https://raw.githubusercontent.com/ClickHouse/clickhouse-presentations/master/images/logo-180x180.png" width="44" height="44"/></a>
 </p>
 
 🦊¯\_(ツ)_/¯🦊

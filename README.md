@@ -2,7 +2,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23777777&vCenter=true&height=60&lines=DevOps;Backend;Networking)](https://git.io/typing-svg)
 ## About me
 
-✨ from Russia 🇷🇺❄️ I can speak both English and Russian languages \
+✨ from Russia 🇷🇺❄️ I can speak both English and Russian languages. And Irish too, just smol bit 🇮🇪🍻 \
 🎉 18 y.o.\
 💭 I work as a DevOps engineer and developer but I also have fun working with backend and cybersec. (and sometimes frontend 😉😳🦄)
 ## Languages I use

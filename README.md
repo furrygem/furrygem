@@ -27,4 +27,6 @@
   <a target="_blank" href="https://clickhouse.yandex"><img src="https://raw.githubusercontent.com/ClickHouse/clickhouse-presentations/master/images/logo-180x180.png" width="44" height="44"/></a>
 </p>
 
-🦊¯\_(ツ)_/¯🦊
+🦊¯\\_(ツ)_/¯🦊
+
+p.s. Special thanks to revvy for hosting my dummy page [less than three]

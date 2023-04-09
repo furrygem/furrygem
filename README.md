@@ -3,7 +3,7 @@
 ## About me
 
 ✨ from Russia 🇷🇺❄️ I can speak both English and Russian languages. And Irish too, just smol bit 🇮🇪🍻 \
-🎉 18 y.o.\
+🎉 19 y.o.\
 💭 I work as a DevOps engineer and developer but I also have fun working with backend and cybersec. (and sometimes frontend 😉😳🦄)
 ## Languages I use
 <p align="left"> 
